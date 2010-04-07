@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jars/jsr311-api-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jersey-client-1.1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jersey-core-1.1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/json_simple-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
